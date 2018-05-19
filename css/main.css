@@ -30,7 +30,7 @@ body {
 
 .heading {
 	font-family: 'Sacramento', cursive;
-	font-size: 4vw;
+	font-size: 6vw;
 	color: #47331c;
 	display: flex;
 	justify-content: center;
@@ -41,13 +41,13 @@ body {
 	display: flex;
 	justify-content: center;
 	font-family: 'Kalam', cursive;
-	font-size: 25px;
+	font-size: 4vh;
 }
 
 .author {
 	display: flex;
 	justify-content: flex-end;
-	font-size: 4vh;
+	font-size: 3.5vh;
 	font-family: 'Kalam', cursive;
 	
 }
