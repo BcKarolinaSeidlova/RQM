@@ -1,5 +1,7 @@
 @media screen and (max-width: 550px ) {
-
+h1 {
+	margin-top: 10px;
+}
 .heading {
 	font-size: 7vw;
 }
@@ -8,14 +10,13 @@
 	font-size: 3.5vh;
 }
 
-.author {
+.author, .btn, .question, .footer {
 	font-size: 3vh;
 }
 
-
 }
 
-@media screen and (min-width: 800px ) {
+@media screen and (min-width: 900px ) {
 
 
 	.box {
@@ -28,7 +29,7 @@
 	}
 
 	.quote {
-		font-size: 3vw;
+		font-size: 2.5vw;
 	}
 
 	.author {
@@ -37,10 +38,10 @@
 
 	.btn {
 	min-height: 50px;
-	font-size: 24px;
+	font-size: 1.5vw;
 	}
 
-	a {
-		font-size: 30px;
+	.question, .footer {
+		font-size: 2vw;
 	}
 }
