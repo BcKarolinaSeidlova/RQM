@@ -1,8 +1,17 @@
-@media screen and (max-width: 500px ) {
+@media screen and (max-width: 550px ) {
 
 .heading {
 	font-size: 7vw;
 }
+
+.quote {
+	font-size: 3.5vh;
+}
+
+.author {
+	font-size: 3vh;
+}
+
 
 }
 
