@@ -1,3 +1,11 @@
+@media screen and (max-width: 500px ) {
+
+.heading {
+	font-size: 7vw;
+}
+
+}
+
 @media screen and (min-width: 800px ) {
 
 
@@ -6,7 +14,8 @@
 	}
 
 	.heading {
-		font-size: 32px;
+		font-size: 4vw;
+		margin-top: 10vh;
 	}
 
 	.quote {
@@ -20,5 +29,9 @@
 	.btn {
 	min-height: 50px;
 	font-size: 24px;
+	}
+
+	a {
+		font-size: 30px;
 	}
 }
